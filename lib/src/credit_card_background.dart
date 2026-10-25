@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'floating_animation/floating_config.dart';
 import 'floating_animation/floating_controller.dart';

@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class Glassmorphism {
   /// A config class for glassmorphism effect.

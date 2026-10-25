@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'floating_animation/floating_event.dart';
 import 'utils/typedefs.dart';
